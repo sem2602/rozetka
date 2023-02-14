@@ -1,0 +1,25 @@
+Array
+(
+    [merchantAccount] => freelance_user_60e353ac410ee
+    [orderReference] => 10001
+    [merchantSignature] => 20664ce44fd6b5160c924286d93af3b2
+    [amount] => 500
+    [currency] => UAH
+    [authCode] => 
+    [email] => 
+    [phone] => 
+    [createdDate] => 1671825430
+    [processingDate] => 1671826332
+    [cardPan] => 
+    [cardType] => 
+    [issuerBankCountry] => 
+    [issuerBankName] => 
+    [recToken] => 
+    [transactionStatus] => Expired
+    [reason] => Cardholder session expired
+    [reasonCode] => 1124
+    [fee] => 0
+    [paymentSystem] => card
+    [acquirerBankName] => WayForPay
+    [clientName] => 
+)
